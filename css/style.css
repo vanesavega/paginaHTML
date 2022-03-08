@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;1,300&family=Saira+Condensed:wght@500&family=Yanone+Kaffeesatz&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.caja{
+    margin: 3%;
+    border: 3px solid #666633;
+}
+h1{
+    color: green;
+    text-align: center;
+}
+p{
+    font-size:medium;
+    color: white;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: justify;
+}
+
+img{
+    width: 20%;
+}
